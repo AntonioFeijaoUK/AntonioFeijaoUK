@@ -1,5 +1,7 @@
 # Antonio Feijao UK - AWS Infrastructure Architect @ Genomics England
 
+![Antonio Feijao UK's GitHub stats](https://github-readme-stats.vercel.app/api?username=AntonioFeijaoUK&theme=tokyonight&count_private=true&show_icons=true)
+
 ## Hi, I'm Antonio Feijao UK
 
 <!--
@@ -63,10 +65,6 @@ Bash, Python, SQL, NoSQL, JavaScript, HTML, CSS ... and couple others.
 ### OS I have worked with
 
 RedHat, Centos, Ubuntu, MacOs, Windows, ....
-
-----
-
-[Antonio Feijao UK's GitHub stats](https://github-readme-stats.vercel.app/api?username=AntonioFeijaoUK&theme=tokyonight&count_private=true&show_icons=true)
 
 ----
 
