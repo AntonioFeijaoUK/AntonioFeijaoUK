@@ -1,30 +1,5 @@
 ## AWS Infrastructure Architect
 
-### AWS certifications that I have
-
-- AWS Certified Advanced Networking Specialty
-- AWS Certified Security Specialty
-
-- AWS Certified DevOps Engineer Professional
-
-- AWS Certified Solutions Architect Associate
-- AWS Certified Developer Associate
-- AWS Certified SysOps Administrator Associate
-
-- AWS Certified Cloud Practitioner
-
-You can also check my other (*Linux, RedHat, Cisco, ...*) certifications at [https://www.credly.com/users/antoniofeijaouk/badges](https://www.credly.com/users/antoniofeijaouk/badges)
-
-### Languages I've worked with
-
-Bash, Python, SQL, NoSQL, JavaScript, HTML, CSS ... and couple others.
-
-### OS I have worked with
-
-RedHat, Centos, Ubuntu, MacOs, Windows, ....
-
----
-
 ## Hi, I'm Antonio Feijao UK
 
 <!--
@@ -59,3 +34,39 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 
 - ⚡ Fun fact: I memorised the first 100 digits of pi! Yes, really! Without practices I can still recall about 40-50 digits.
+
+----
+
+### AWS certifications that I have
+
+- AWS Certified Advanced Networking Specialty
+- AWS Certified Security Specialty
+
+- AWS Certified DevOps Engineer Professional
+
+- AWS Certified Solutions Architect Associate
+- AWS Certified Developer Associate
+- AWS Certified SysOps Administrator Associate
+
+- AWS Certified Cloud Practitioner
+
+You can also check my other (*Linux, RedHat, Cisco, ...*) certifications at [https://www.credly.com/users/antoniofeijaouk/badges](https://www.credly.com/users/antoniofeijaouk/badges)
+
+----
+
+### Languages I've worked with
+
+Bash, Python, SQL, NoSQL, JavaScript, HTML, CSS ... and couple others.
+
+-----
+
+### OS I have worked with
+
+RedHat, Centos, Ubuntu, MacOs, Windows, ....
+
+
+----
+
+Cheers,
+
+Antonio Feijao UK
