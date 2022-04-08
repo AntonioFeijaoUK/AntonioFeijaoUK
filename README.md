@@ -68,6 +68,6 @@ RedHat, Centos, Ubuntu, MacOs, Windows, ....
 
 ----
 
-Cheers,
+Kind regards,
 
 Antonio Feijao UK
