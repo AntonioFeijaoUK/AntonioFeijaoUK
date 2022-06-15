@@ -1,8 +1,8 @@
-# Antonio Feijao UK - AWS Infrastructure Architect @ Genomics England
+# Antonio Feijao (Antonio Feijao UK) - AWS Infrastructure Architect @ Genomics England UK
 
 ![Antonio Feijao UK's GitHub stats](https://github-readme-stats.vercel.app/api?username=AntonioFeijaoUK&theme=tokyonight&count_private=true&show_icons=true)
 
-## Hi, I'm Antonio Feijao UK
+## Hi, I'm Antonio Feijao, AWS Infrastructure Architect @ Genomics England UK
 
 <!--
 **AntonioFeijaoUK/AntonioFeijaoUK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,10 +28,13 @@ Here are some ideas to get you started:
   We are hiring software devs and engineers in various areas.
 
   Reach out if you are looking for a challenge and want to help changing peoples life and the health care for better!
+  
+  Have a look in our careers page <https://careers.smartrecruiters.com/GenomicsEngland/> ,  
+  and don't forget to tell HR you found the role through my page.
 
 - 🌱 I’m currently learning about DNA sequencing.
 
-- 📫 How to reach me: [Antonio.Cloud](https://antonio.cloud/)
+- 📫 How to reach me: [AntonioFeijao.com](https://www.AntonioFeijao.com/)
 
 - 😄 Pronouns: He/Him
 
@@ -56,18 +59,18 @@ You can also check my other (*Linux, RedHat, Cisco, ...*) certifications at [htt
 
 ----
 
-### Languages I've worked with
+### Scripting and coding experience
 
 Bash, Python, SQL, NoSQL, JavaScript, HTML, CSS ... and couple others.
 
 ----
 
-### OS I have worked with
+### Operating System experience
 
-RedHat, Centos, Ubuntu, MacOs, Windows, ....
+Amazon Linux, Debian, RedHat, Centos, Ubuntu, MacOs, Windows, Docker, containers....
 
 ----
 
 Kind regards,
 
-Antonio Feijao UK
+Antonio Feijao
